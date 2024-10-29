@@ -54,7 +54,7 @@
     --bs-danger-text-emphasis: #58151c;
     --bs-light-text-emphasis: #495057;
     --bs-dark-text-emphasis: #495057;
-    --bs-primary-bg-subtle: #cfe2ff;
+    --bs-primary-bg-subtle: #d0eecc;
     --bs-secondary-bg-subtle: #e2e3e5;
     --bs-success-bg-subtle: #d1e7dd;
     --bs-info-bg-subtle: #cff4fc;
@@ -2235,7 +2235,7 @@ progress {
 
 .table-primary {
     --bs-table-color: #000;
-    --bs-table-bg: #cfe2ff;
+    --bs-table-bg: #d0eecc;
     --bs-table-border-color: #a6b5cc;
     --bs-table-striped-bg: #c5d7f2;
     --bs-table-striped-color: #000;
